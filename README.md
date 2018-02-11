@@ -80,7 +80,7 @@ very quick fix is to supply the argument `case = "old_janitor"`.
 
 Below are quick examples of how janitor tools are commonly used. A full
 description of each function can be found in janitor’s [catalog of
-functions](https://github.com/sfirke/janitor/blob/master/vignettes/introduction.md).
+functions](https://sfirke.github.io/janitor/reference/index.html).
 
 ### Cleaning dirty data
 
